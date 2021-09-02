@@ -1,6 +1,6 @@
 # Build Fullstack PERN Todo
 
-This project build use PostgreSQL, Express JS, React JS and Node.
+This project build use PostgreSQL, Express JS, React JS and Node, following steps from [Youtube](https://www.youtube.com/watch?v=ldYcgPKEZC8&ab_channel=freeCodeCamp.org)
 
 ## Steps
 
